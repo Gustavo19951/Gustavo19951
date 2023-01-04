@@ -58,11 +58,6 @@ Me mantengo al día con las nuevas tecnologías que usan en la industria actuali
   * <strong>Cargo: </strong>Soporte de red de área local
   * <strong>Antiguedad: </strong>1.2 años
 
-### 🌐 CONTACTAME:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Gus_Rodri1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavoadolforodriguezbernal)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.WhatsApp.com/send?phone=3052374055)
-[![WhatsApp](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavor.dev.outlook.com)
 <br>
 <br>
 <br>
