@@ -1,5 +1,3 @@
-# Hola!! Soy Gustavo 💻 👦
-
 ![banner](https://github.com/Gustavo19951/Gustavo19951/blob/main/Banner.png?raw=true)
 
 # 💫 About Me:
