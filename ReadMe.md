@@ -9,10 +9,10 @@ Me mantengo al día con las nuevas tecnologías que usan en la industria actuali
 🤝 <strong>Interesado en trabajos de:</strong> React Js, Express Js, JavaScript<br>
 🌆 <strong>Ubicado en:</strong> Bogota Colombia<br>
 📱 <strong>Telefono:</strong> 3052374055<br>
-✉ <strong>Mail:</strong> gustavor.dev.outlook.com
+✉ <strong>Mail:</strong> gustavor.dev@outlook.com
 
 
-### 🌐 Contacto (Click para ir):
+### 🌐 Contacto
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Gus_Rodri1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavoadolforodriguezbernal) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.WhatsApp.com/send?phone=3052374055) 
@@ -46,7 +46,20 @@ Me mantengo al día con las nuevas tecnologías que usan en la industria actuali
 
 * <strong>IBM (ISIT)</strong>
   * <strong>Cargo: </strong>Soporte de red de área local
-  * <strong>Antiguedad: </strong>1.2 años
+  * <strong>Antiguedad: </strong>1 años
+
+## 📖 Educacion
+
+* <strong>Uniminuto</strong>
+  * <strong>Carrera: </strong> Ingenieria de sistemas
+  <br>
+  <br>
+* <strong>FEUD (Fundacion Egrasados Universidad Distrital)</strong>
+  * <strong>Curso: </strong>ITIL
+    <br>
+    <br>
+* <strong>CoderHouse</strong>
+  * <strong>Curso: </strong>React Developer
 
 <br>
 <br>
