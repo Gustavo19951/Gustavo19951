@@ -54,10 +54,20 @@ Me mantengo al día con las nuevas tecnologías que usan en la industria actuali
 
 ## 🦺 Experiencia
 
+* <strong>Finanzauto</strong>
+  * <strong>Cargo: </strong>Desarrollador Mid | FrontEnd | Mobile Android and IOS
+  * <strong>Antiguedad: </strong>6 Meses
+  * <strong>Desde: </strong> 05-20233 <strong>Hasta: </strong> Actualmente
+  * <strong>Responsabilidad del Cargo: </strong>
+    * Desarrollo de soluciones tecnologicos pra cliente interno y externo como casatoro, john Deere y grupo seisa
+    * Mantenimiento a interfaces corporativas.
+    * Next js, React Native, Pocketbase, C#, React JS, Express, conexiones con Asterisk
+
+
 * <strong>VMLY&R Colombia</strong>
   * <strong>Cargo: </strong>Internal Development and IT Support
   * <strong>Antiguedad: </strong>4 años
-  * <strong>Desde: </strong> 01-2020 <strong>Hasta: </strong> Actualmente
+  * <strong>Desde: </strong> 01-2020 <strong>Hasta: </strong> 4-2023
   * <strong>Responsabilidad del Cargo: </strong>
     * Desarrollo y mantenimiento de sistemas financieros como también en la creación y optimización de procesos SOX e ISO 9001.
     * Mantenimiento a interfaces corporativas.
